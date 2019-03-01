@@ -1,0 +1,19 @@
+{
+  "name": "mp3-dummy",
+  "version": "1.0.0",
+  "description": "Simple browser/node module to create a dummy, silent mp3 file",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximedupre/mp3-dummy.git"
+  },
+  "author": "maximedupre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximedupre/mp3-dummy/issues"
+  },
+  "homepage": "https://github.com/maximedupre/mp3-dummy#readme",
+  "dependencies": {
+    "lamejs": "1.2.0"
+  }
+}
