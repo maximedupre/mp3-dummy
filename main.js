@@ -12,5 +12,5 @@ module.exports = (duration) => {
 
 	mp3Data.push(mp3Tmp);
 
-	return mp3Data;
+	return Int8Array.from(mp3Data[0]).buffer;
 }

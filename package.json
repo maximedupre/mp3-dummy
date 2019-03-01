@@ -1,6 +1,6 @@
 {
   "name": "mp3-dummy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple browser/node module to create a dummy, silent mp3 file",
   "main": "main.js",
   "repository": {
